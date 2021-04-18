@@ -20,3 +20,23 @@ The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More detail
     bin/
 6- git add .
 7- git status
+8- git commit -m "Versao inicial do sistema"
+9- git log
+10- git log --oneline
+11- git log --stat
+12- Cliente.java
+13- git status
+14- git add .
+15- String nome;
+16- git commit -m "Inclusão da Classe Cliente"
+17- git log -n 2
+18- git commit -m "Adição do Campo nome"
+19- git log -n 2
+20- Integer id;
+21- git add .
+22- git log -n 2
+23- git log
+24- git commit -m "Inclusão do Campo id"
+25- git log --oneline
+26- git log -n 2
+28-
