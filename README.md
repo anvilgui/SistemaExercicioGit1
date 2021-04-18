@@ -39,4 +39,10 @@ The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More detail
 24- git commit -m "Inclusão do Campo id"
 25- git log --oneline
 26- git log -n 2
-28-
+.
+30- git commit -m “Movendo a classe Cliente para o
+pacote model.domain.Cliente”
+.
+33- Double salario;
+34- git reset .
+39- git commit -m “Inclusao do campo salario”
